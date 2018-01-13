@@ -1,7 +1,4 @@
-# readme-edits
-echo "# readme-edits" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/JustineBeveridge/readme-edits.git
-git push -u origin master
+# hello world
+My name is Justine and I am new to this.
+
+Wish me luck. 
